@@ -20,7 +20,7 @@ External-app reference patterns gathered via Mobbin MCP (`mcp__mobbin__search_sc
 | **Gentler Streak** ([screen](https://mobbin.com/screens/54387efd-46b1-44aa-aebc-cbd0feb9651d)) | "You're almost in" preamble + character standing in stylised scene + single CTA | Pre-land copy explicitly **sets expectation of arrival**. Character only appears once world has loaded — no flash. |
 | **Duolingo** ([screen](https://mobbin.com/screens/b8a54efb-c06d-4818-b56e-968b2309c88b)) | Companion with grounding shadow + tail-anchored speech bubble + bottom-pinned CTA | Bubble tail is **anchored to the bird's beak**, not floating. Bird has soft shadow grounding it to the surface. |
 
-**Take-away for U2/U6:** Kira's pre-land flash breaks the rule both Tolan and Gentler Streak honour — never let the companion render before its arrival animation begins. Kira's speech bubble during FirstChat could also borrow Duolingo's tail-anchor for clearer attribution.
+**Take-away for U2/U6:** Finfy's pre-land flash breaks the rule both Tolan and Gentler Streak honour — never let the companion render before its arrival animation begins. Kira's speech bubble during FirstChat could also borrow Duolingo's tail-anchor for clearer attribution.
 
 ---
 
